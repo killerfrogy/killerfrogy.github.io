@@ -1,0 +1,11 @@
+2014-12-14 10:31:41,945 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.killerfrogy:killerAPI:0.0.1-SNAPSHOT @ C:\Users\Cameron\workspace\killerfrogy.github.io\killerAPI\pom.xml.
+2014-12-14 10:31:43,011 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /killerAPI/src/main/java
+2014-12-14 10:31:43,012 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.killerfrogy:killerAPI:0.0.1-SNAPSHOT @ C:\Users\Cameron\workspace\killerfrogy.github.io\killerAPI\pom.xml.
+2014-12-14 10:31:43,012 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /killerAPI/src/main/resources
+2014-12-14 10:31:43,013 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /killerAPI/src/test/java
+2014-12-14 10:31:43,014 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /killerAPI/src/test/resources
+2014-12-14 10:31:43,086 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2014-12-14 10:31:44,097 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-14 10:31:44,103 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-12-14 10:31:44,117 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-14 10:31:44,119 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
